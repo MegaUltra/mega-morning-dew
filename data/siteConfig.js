@@ -1,33 +1,30 @@
 module.exports = {
-  siteTitle: 'gatsby-starter-morning-dew',
+  siteTitle: 'Mega Ultra Studios',
   siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
-  authorName: 'Maxence Poutord',
-  twitterUsername: '_maxpou',
-  authorAvatar: 'avatar.jpeg', // file in content/images
+  authorName: 'Mega Ultra Studios',
+  twitterUsername: '',
+  authorAvatar: 'avatar.png', // file in content/images
   defaultLang: 'en', // show flag if lang is not default. Leave empty to enable flags in post lists
   authorDescription: `
-  For the last decade, Maxence Poutord has worked with a variety of web technologies. He is currently focused on front-end development.
-  On his day to day job, he is working as a senior front-end engineer at VSware. He is also an occasional tech speaker and a mentor.
-  As a digital nomad, he is living where the WiFi and sun are 😎 <br>
-  Do you want to know more? <a href="https://www.maxpou.fr/about" target="_blank">Visit my website!</a>
+  Mega Ultra Studios creates unique original short films, music videos, live event videos, and promotional videos for independent performing artists and small business.
   `,
-  siteUrl: 'https://maxpou.github.io/',
-  disqusSiteUrl: 'https://www.maxpou.fr/',
+  siteUrl: 'https://megaultra.space/',
+  disqusSiteUrl: 'https://megaultra.space/',
   // Prefixes all links. For cases when deployed to maxpou.fr/gatsby-starter-morning-dew/
-  pathPrefix: '/gatsby-starter-morning-dew', // Note: it must *not* have a trailing slash.
-  siteCover: 'cover-baymax.jpeg', // file in content/images
-  googleAnalyticsId: 'UA-67868977-1',
-  background_color: '#ffffff',
-  theme_color: '#222222',
+  pathPrefix: '', // Note: it must *not* have a trailing slash.
+  siteCover: 'cover.jpg', // file in content/images
+  googleAnalyticsId: 'UA-158208347-1',
+  background_color: '#CFC714',
+  theme_color: '#0D0D0D',
   display: 'standalone',
-  icon: 'content/images/baymax.png',
+  icon: 'content/images/logo.png',
   postsPerPage: 6,
-  disqusShortname: 'maxpou',
-  headerTitle: 'gatsby-starter-morning-dew',
-  headerLinksIcon: 'baymax.png', //  (leave empty to disable: '')
+  disqusShortname: '',
+  headerTitle: 'Mega Ultra Studios',
+  headerLinksIcon: 'logo.png', //  (leave empty to disable: '')
   headerLinks: [
     {
-      label: 'Blog',
+      label: 'Home',
       url: '/',
     },
     {
