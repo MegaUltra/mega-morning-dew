@@ -29,7 +29,7 @@ module.exports = {
     },
     {
       label: 'About',
-      url: '/about-gatsby-starter-morning-dew',
+      url: '/about-mega-ultra-studios',
     },
     {
       label: 'Installation',
