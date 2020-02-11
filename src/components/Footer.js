@@ -115,7 +115,10 @@ const Footer = () => {
       <nav>
         <div className="footer-col">
           <h5 className="footer-title">
-            {authorName} © {new Date().getFullYear()}
+            © {new Date().getFullYear()}{' '}
+            <a className="footer-link" href={websiteHost.url}>
+              {websiteHost.name}
+            </a>
           </h5>
           <p className="footer-item-text">
             Built with{' '}

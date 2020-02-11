@@ -38,36 +38,36 @@ module.exports = {
   ],
   // Footer information (ex: Github, Netlify...)
   websiteHost: {
-    name: 'GitHub',
-    url: 'https://github.com',
+    name: 'Mega Ultra Studios',
+    url: 'https://megaultra.space',
   },
   footerLinks: [
     {
       sectionName: 'Explore',
       links: [
         {
-          label: 'Blog',
+          label: 'Home',
           url: '/',
         },
         {
-          label: 'About',
+          label: 'Feature Films',
           url: '/about-gatsby-starter-morning-dew',
         },
         {
-          label: 'Installation',
+          label: 'Short Films',
           url: '/how-to-install',
         },
       ],
     },
     {
-      sectionName: 'Follow the author',
+      sectionName: 'More Info',
       links: [
         {
-          label: 'GitHub',
-          url: 'https://github.com/maxpou/gatsby-starter-morning-dew',
+          label: 'About',
+          url: '/about-mega-ultra-studios',
         },
         {
-          label: 'Website',
+          label: 'Contact',
           url: 'https://www.maxpou.fr',
         },
         {
