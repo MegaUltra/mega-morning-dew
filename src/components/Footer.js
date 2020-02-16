@@ -121,32 +121,41 @@ const Footer = () => {
             </a>
           </h5>
           <p className="footer-item-text">
-            Built with{' '}
-            <a className="footer-link" href="https://www.gatsbyjs.org">
-              Gatsby
+            <a className="footer-link" href="https://www.facebook.com/MegaUltraPro/">
+              Facebook
             </a>
-            .
           </p>
           <p className="footer-item-text">
-            Theme using{' '}
             <a
               className="footer-link"
-              href="https://github.com/maxpou/gatsby-starter-morning-dew"
+              href="https://www.amazon.com/v/megaultra"
             >
-              gatsby-starter-morning-dew
+              Amazon
             </a>
-            .
           </p>
           <p className="footer-item-text">
-            Hosted with{' '}
-            <span className="footer-heart" role="img" aria-label="Love">
-              ❤
-            </span>{' '}
-            by{' '}
-            <a className="footer-link" href={websiteHost.url}>
-              {websiteHost.name}
+            <a
+              className="footer-link"
+              href="https://my.roku.com/add/megaultra"
+            >
+              Roku
             </a>
-            .
+          </p>
+          <p className="footer-item-text">
+            <a
+              className="footer-link"
+              href="https://www.imdb.com/search/title/?companies=co0469320"
+            >
+              IMDB
+            </a>
+          </p>
+          <p className="footer-item-text">
+            <a
+              className="footer-link"
+              href="https://youtube.com/megaultrastudios"
+            >
+              YouTube
+            </a>
           </p>
         </div>
         {footerLinks.map((column, i) => {

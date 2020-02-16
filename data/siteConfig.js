@@ -1,6 +1,6 @@
 module.exports = {
   siteTitle: 'Mega Ultra Studios',
-  siteDescription: 'A Gatsby theme/starter to build lightning-fast websites',
+  siteDescription: 'Multimedia Production',
   authorName: 'Mega Ultra Studios',
   twitterUsername: '',
   authorAvatar: 'avatar.png', // file in content/images
