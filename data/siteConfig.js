@@ -46,10 +46,6 @@ module.exports = {
       sectionName: 'Explore',
       links: [
         {
-          label: 'Home',
-          url: '/',
-        },
-        {
           label: 'Feature Films',
           url: '/about-gatsby-starter-morning-dew',
         },
@@ -57,11 +53,23 @@ module.exports = {
           label: 'Short Films',
           url: '/how-to-install',
         },
+        {
+          label: 'Music Videos',
+          url: '/how-to-install',
+        },
+        {
+          label: 'Promotional Videos',
+          url: '/how-to-install',
+        },
       ],
     },
     {
       sectionName: 'More Info',
       links: [
+        {
+          label: 'Home',
+          url: '/',
+        },
         {
           label: 'About',
           url: '/about-mega-ultra-studios',
@@ -71,8 +79,8 @@ module.exports = {
           url: 'https://www.maxpou.fr',
         },
         {
-          label: 'Twitter',
-          url: 'https://twitter.com/_maxpou',
+          label: 'Privacy Policy',
+          url: '/privacy-policy',
         },
       ],
     },
