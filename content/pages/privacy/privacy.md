@@ -120,7 +120,7 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 * Allow users to unsubscribe by using the link at the bottom of each email.
 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at
-[admin@megaultra.space](mailto:info@megaultra.space) and we will promptly remove you from **ALL correspondence.**
+[info@megaultra.space](mailto:info@megaultra.space) and we will promptly remove you from **ALL correspondence.**
 
 
 ### Contacting Us
