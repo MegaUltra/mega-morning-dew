@@ -36,10 +36,10 @@ export default {
       heading: 1.125
     },
     colors: {
-      text: '#000',
-      background: '#fff',
-      primary: '#07c',
-      secondary: '#30c',
+      text: '#0D0D0D',
+      background: '#E8E8E8',
+      primary: '#67543c',
+      secondary: '#171413',
       muted: '#f6f6f6'
     },
     styles: {
