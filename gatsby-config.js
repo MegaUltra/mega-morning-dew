@@ -11,6 +11,7 @@ module.exports = {
   pathPrefix: config.pathPrefix,
   plugins: [
     'gatsby-plugin-theme-ui',
+    'gatsby-theme-style-guide',
     {
       resolve: `gatsby-source-filesystem`,
       options: {
